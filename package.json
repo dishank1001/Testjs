@@ -1,0 +1,19 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dishank",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "fetch-ponyfill": "^7.0.0",
+    "karma-sourcemap-loader": "^0.3.8",
+    "node-fetch": "^2.6.1",
+    "urijs": "^1.19.4"
+  }
+}
